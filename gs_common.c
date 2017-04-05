@@ -36,7 +36,7 @@
  * line.
  */
 #define DEFAULT_SIZE               2048
-#define DEFAULT_ITERATIONS           20
+#define DEFAULT_ITERATIONS           1
 #define DEFAULT_TOLERANCE             1.0
 #define DEFAULT_NTHREADS              4
 #define DEFAULT_PAD                   0
